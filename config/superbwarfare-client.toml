@@ -62,5 +62,5 @@
 
 [checksum]
 	#System environment checksum, do not edit
-	environment_checksum = ""
+	environment_checksum = "6146a3c452676097851fb5142e35d2b3df96871fc591c46742ec6cdca9fa4d1a"
 
