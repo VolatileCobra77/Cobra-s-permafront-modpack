@@ -1,4 +1,4 @@
-Download the pack from (Curseforge)[https://www.curseforge.com/minecraft/modpacks/cobras-permafront-s1-burnout]
+Download the pack from [Curseforge](https://www.curseforge.com/minecraft/modpacks/cobras-permafront-s1-burnout)
 
 # 🐍 Cobra’s Permafront: Burnout  
 **Version:** Season 1  
